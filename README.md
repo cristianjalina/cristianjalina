@@ -7,6 +7,11 @@ Hola, soy Cristian Gabriel Jalina Barrera
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Visual Basic](https://img.shields.io/badge/Visual_Basic-512BD4?style=for-the-badge&logo=visual-basic&logoColor=white)
 
+| Proyecto | Link |
+| :--- | :--- |
+| **KUIDA** | [Ver Repo](https://github.com/bennydeveloper25-boop/KUIDA) |
+| **CineGold** | [Ver Repo](https://github.com/bennydeveloper25-boop/CineGold) |
+
 Estudiante de 3.er año de Ingeniería en Sistemas en la Universidad Iberoamericana de Ciencia y Tecnología (UNICIT), Managua, Nicaragua.
 
 Tengo conocimientos en bases de datos, desarrollo web y programación, con especial interés en el desarrollo backend, bases de datos y la creación de soluciones web.

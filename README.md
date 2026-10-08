@@ -15,4 +15,4 @@ Actualmente estoy aprendiendo y fortaleciendo mis conocimientos en Web APIs con 
 🧩 Participación en proyectos de desarrollo colaborativo
 🏁 Participación en Rally Nacional y Rally Latinoamericano
 📚 Actualmente aprendiendo Web APIs con .NET 10
-🔎 Buscando una oportunidad de pasantía en desarrollo web, backend o bases de datos
+🔎 Buscando una oportunidad de pasantía en desarrollo web, backend o bases de datos.

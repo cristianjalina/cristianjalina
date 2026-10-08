@@ -13,8 +13,7 @@ Tengo conocimientos en bases de datos, desarrollo web y programación, con espec
 
 Actualmente estoy aprendiendo y fortaleciendo mis conocimientos en Web APIs con .NET 10, mientras continúo desarrollando proyectos académicos y personales.
 
-Sobre mí
-Estudiante de Ingeniería en Sistemas — 3.er año
+Sobre mí:
 Excelencia Académica durante el primer y segundo año (2024–2025)
 Interés en bases de datos y desarrollo backend
 Conocimientos en desarrollo web
